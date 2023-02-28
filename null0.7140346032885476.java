@@ -1,0 +1,3 @@
+
+
+To generate a service call, you need to first contact the service provider to discuss the details of your request. Depending on the provider, they may have an online form to fill out, or they may require you to call in to speak with a representative. Once you have the details worked out, you can then provide the necessary information to the service provider to create the service call. The service provider will then assign a technician to handle your request and provide you with an expected completion date.
