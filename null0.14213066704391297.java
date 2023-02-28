@@ -1,0 +1,3 @@
+
+
+In order to generate a service call, you must first determine the type of service you need and the associated cost. Once you have selected the service, you must then contact the service provider that offers the service you need and provide the necessary information to begin the service call. Depending on the nature of the service, this may include your contact information, the type of service needed, and any relevant payment information. Once the service provider has all the necessary information, they will typically generate a service call that includes the details of the service as well as any associated costs.
