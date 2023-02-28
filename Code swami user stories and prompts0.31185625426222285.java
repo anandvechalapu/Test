@@ -1,0 +1,1 @@
+The feature has been documented and the user can start a new conversation.
